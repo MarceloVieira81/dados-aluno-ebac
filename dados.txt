@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome: Marcelo Vieira
--Profissão: Assitente Planejamento Comercial
--Cidade: São Paulo
--O que faz nas horas vaga: Ouvir musicas
--Feedback sobre o curso Qualidade de Software: otimo curso, aulas bem explicadas e didaticas
--Feedback sobre a plataforma de estudo da EBAC: boa interface, bem interativa a plataforma
+-Primeiro Nome: 
+-Profissão: 
+-Cidade: 
+-O que faz nas horas vaga: 
+-Feedback sobre o curso Qualidade de Software: 
+-Feedback sobre a plataforma de estudo da EBAC: 
 
 Obrigado!!!
 
